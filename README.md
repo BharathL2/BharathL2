@@ -45,7 +45,7 @@ I love turning raw data into meaningful stories, building **intelligent applicat
 - 🔹 **[Startup Data Analysis Dashboard](https://github.com/BharathL2/Startup-Data-India-Analysis)**  
   🗺️ Built an interactive Streamlit dashboard analyzing India’s startup landscape with geospatial and funding insights.
 
-- 🔹 **[Tokenizer Evaluation for Code-Mixed Languages](https://github.com/BharathL2/Co-BERT-A-Comprehensive-Evaluation-of-Tokenization-Techniques-in-Code-Switching-Environments)**  
+- 🔹 **[Co-BERT-A-Comprehensive-Evaluation-of-Tokenization-Techniques-in-Code-Switching-Environments](https://github.com/BharathL2/Co-BERT-A-Comprehensive-Evaluation-of-Tokenization-Techniques-in-Code-Switching-Environments)**  
   🔤 Benchmarked tokenizers (WordPiece, SentencePiece, BPE) on Tanglish, Kanglish, and Hinglish using YouTube data.
 
 - 🔹 **[InsightGPT – Business Analytics with LLMs](https://github.com/BharathL2/InsightGPT-Business-Analytics-With-LLMs)**  
