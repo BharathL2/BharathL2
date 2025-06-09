@@ -38,7 +38,7 @@ I love turning raw data into meaningful stories, building **intelligent applicat
 
 ### 🚀 Projects I’m Proud Of
 
-- 🔹 **[NIRF Data Visualization](https://github.com/BharathL2/-Building-Interactive-Dashboard-for-Effective-Visualization-of-NIRF-Data)**  
+- 🔹 **[-Building-Interactive-Dashboard-for-Effective-Visualization-of-NIRF-Data](https://github.com/BharathL2/-Building-Interactive-Dashboard-for-Effective-Visualization-of-NIRF-Data)**  
   📊 Developed a comprehensive React-based web app for interactive visualization and analysis of NIRF data from 2016 to 2024.  
   Features include category-wise institution rankings, parameter-wise performance, historical trends, geographical distribution, and detailed institution profiles.
 
