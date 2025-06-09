@@ -38,16 +38,17 @@ I love turning raw data into meaningful stories, building **intelligent applicat
 
 ### 🚀 Projects I’m Proud Of
 
-- 🔹 **[Clipscholar: AI Note & Quiz Generator](https://github.com/BharathL2/Clipscholar)**  
-  🎥 → 📝 Built a Flask app using GPT-3.5 and DALL·E to generate notes, quizzes, and images from YouTube transcripts.
+- 🔹 **[NIRF Data Visualization](https://github.com/BharathL2/-Building-Interactive-Dashboard-for-Effective-Visualization-of-NIRF-Data)**  
+  📊 Developed a comprehensive React-based web app for interactive visualization and analysis of NIRF data from 2016 to 2024.  
+  Features include category-wise institution rankings, parameter-wise performance, historical trends, geographical distribution, and detailed institution profiles.
 
 - 🔹 **[Startup Data Analysis Dashboard](https://github.com/BharathL2/Startup-Data-India-Analysis)**  
   🗺️ Built an interactive Streamlit dashboard analyzing India’s startup landscape with geospatial and funding insights.
 
-- 🔹 **[Tokenizer Evaluation for Code-Mixed Languages](https://github.com/BharathL2/Tokenizer-Evaluation-CodeMixed)**  
+- 🔹 **[Tokenizer Evaluation for Code-Mixed Languages](https://github.com/BharathL2/Co-BERT-A-Comprehensive-Evaluation-of-Tokenization-Techniques-in-Code-Switching-Environments)**  
   🔤 Benchmarked tokenizers (WordPiece, SentencePiece, BPE) on Tanglish, Kanglish, and Hinglish using YouTube data.
 
-- 🔹 **[InsightGPT – Business Analytics with LLMs](https://github.com/BharathL2/InsightGPT)**  
+- 🔹 **[InsightGPT – Business Analytics with LLMs](https://github.com/BharathL2/InsightGPT-Business-Analytics-With-LLMs)**  
   📊 Developed a GPT-4 powered dashboard that generates business reports from user-uploaded datasets.
 
 ---
