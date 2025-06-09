@@ -1,19 +1,22 @@
-### 👋 Hi there, I'm **Bharath L**  
-🚀 AI/ML Engineer | 📊 Data Analyst | 🌐 Tech Explorer
+# 👋 Hey, I’m Bharath L  
+
+### 🧑‍💻 Crafting Data, Building Intelligence
 
 ---
 
-#### 🌟 About Me  
-- Passionate about **AI/ML**, **Data Science**, **Web Development**, and solving real-world problems through technology.
-- Currently on a mission to master **Data Structures, Algorithms, and SQL** for system-level thinking and problem-solving.
-- I love building **intelligent applications**, exploring **Large Language Models**, and creating **impactful dashboards**.
-- Open to **collaborations on AI, ML, and Full-Stack projects**, especially those that push creative boundaries.
-- Fun fact: I’m also exploring **financial data analytics** and I’m a huge fan of **personal productivity hacks!**
-- Reach me at: **l670bharath@gmail.com**
+### 💡 Quick Intro  
+Hi, I’m Bharath — a passionate explorer of **AI/ML**, **Data Analytics**, and **Full-Stack Development**.  
+I love turning raw data into meaningful stories, building **intelligent applications**, and creating products that truly make a difference.
+
+- 🔍 Always learning: **AI, LLMs, SQL, DSA, and Modern Web Development**
+- 🚀 Currently building: AI-powered tools and interactive dashboards
+- 🤝 Open for: Collaborations, internships, hackathons, and idea exchanges
+- ✨ Fun fact: I’m obsessed with sky-watching, productivity systems, and stock analysis!
+- 📬 Reach me at: **l670bharath@gmail.com**
 
 ---
 
-#### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
@@ -33,29 +36,32 @@
 
 ---
 
-#### 🚀 Key Projects
-- **[Clipscholar: AI Note & Quiz Generator](https://github.com/BharathL2/Clipscholar)**  
-  Built a Flask app using GPT-3.5 and DALL·E to generate notes, quizzes, and images from YouTube videos.
+### 🚀 Projects I’m Proud Of
 
-- **[Startup Data Analysis Dashboard](https://github.com/BharathL2/Startup-Data-India-Analysis)**  
-  Developed an interactive Streamlit dashboard to visualize India's startup ecosystem with geospatial insights.
+- 🔹 **[Clipscholar: AI Note & Quiz Generator](https://github.com/BharathL2/Clipscholar)**  
+  🎥 → 📝 Built a Flask app using GPT-3.5 and DALL·E to generate notes, quizzes, and images from YouTube transcripts.
 
-- **[Tokenizer Evaluation for Code-Mixed Languages](https://github.com/BharathL2/Tokenizer-Evaluation-CodeMixed)**  
-  Benchmarked tokenizers on code-mixed (Tanglish, Kanglish, Hinglish) YouTube transcripts using AI4Bharat’s Bhashini.
+- 🔹 **[Startup Data Analysis Dashboard](https://github.com/BharathL2/Startup-Data-India-Analysis)**  
+  🗺️ Built an interactive Streamlit dashboard analyzing India’s startup landscape with geospatial and funding insights.
 
-- **[InsightGPT – Business Analytics with LLMs](https://github.com/BharathL2/InsightGPT)**  
-  Created an LLM-powered dashboard for generating business reports from user-uploaded datasets.
+- 🔹 **[Tokenizer Evaluation for Code-Mixed Languages](https://github.com/BharathL2/Tokenizer-Evaluation-CodeMixed)**  
+  🔤 Benchmarked tokenizers (WordPiece, SentencePiece, BPE) on Tanglish, Kanglish, and Hinglish using YouTube data.
 
----
-
-#### 📈 GitHub Stats
-
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharathL2&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharathL2&layout=compact&theme=tokyonight)
+- 🔹 **[InsightGPT – Business Analytics with LLMs](https://github.com/BharathL2/InsightGPT)**  
+  📊 Developed a GPT-4 powered dashboard that generates business reports from user-uploaded datasets.
 
 ---
 
-#### 🔗 Let's Connect
+### 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BharathL2&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathL2&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-l-5a3886261/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:l670bharath@gmail.com)
@@ -63,4 +69,4 @@
 
 ---
 
-### Thanks for visiting! 🚀✨
+### 🚀 Let’s Build Something Awesome Together! 🚀
