@@ -1,29 +1,28 @@
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
   <tr>
-    <!-- LEFT SIDE: TEXT (75%) -->
-    <td valign="top" width="75%">
+    <td width="75%" valign="top">
       <h1>👋 Hey, I’m Bharath L</h1>
       <h3>🧑‍💻 Crafting Data, Building Intelligence</h3>
-      <p>
-        Hi, I’m Bharath — a passionate explorer of <b>AI/ML</b>, <b>Data Analytics</b>, and <b>Full-Stack Development</b>.<br>
-        I love turning raw data into meaningful stories, building <b>intelligent applications</b>, and creating products that truly make a difference.
-      </p>
-      <ul>
-        <li>🔍 Always learning: <b>AI, LLMs, SQL, DSA, and Modern Web Development</b></li>
-        <li>🚀 Currently building: AI-powered tools and interactive dashboards</li>
-        <li>🤝 Open for: Collaborations, internships, hackathons, and idea exchanges</li>
-        <li>✨ Fun fact: I’m obsessed with sky-watching, productivity systems, and stock analysis!</li>
-        <li>📬 Reach me at: <b>l670bharath@gmail.com</b></li>
-      </ul>
     </td>
-
-    <!-- RIGHT SIDE: GIF (25%) -->
     <td align="right" width="25%">
-      <img src="zoro-roronoa-zoro.gif" width="300" alt="Zoro GIF" />
+      <img src="zoro-roronoa-zoro.gif" width="350"/>
     </td>
   </tr>
 </table>
 
+---
+
+### 💡 Quick Intro  
+Hi, I’m Bharath — a passionate explorer of **AI/ML**, **Data Analytics**, and **Full-Stack Development**.  
+I love turning raw data into meaningful stories, building **intelligent applications**, and creating products that truly make a difference.
+
+- 🔍 Always learning: **AI, LLMs, SQL, DSA, and Modern Web Development**  
+- 🚀 Currently building: AI-powered tools and interactive dashboards  
+- 🤝 Open for: Collaborations, internships, hackathons, and idea exchanges  
+- ✨ Fun fact: I’m obsessed with sky-watching, productivity systems, and stock analysis!  
+- 📬 Reach me at: **l670bharath@gmail.com**
+
+---
 
 ### 🛠️ Tech Stack
 
