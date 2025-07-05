@@ -62,8 +62,9 @@ I love turning raw data into meaningful stories, building **intelligent applicat
 
 ---
 <p align="center">
-  <img src="https://media.tenor.com/k1dDE0-LqEMAAAAC/zoro-roronoa-zoro.gif" width="400"/>
+  <img src="assets/zoro-roronoa-zoro.gif" width="400"/>
 </p>
+
 ---
 ### 🔗 Connect with Me  
 
