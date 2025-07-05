@@ -1,6 +1,11 @@
 # 👋 Hey, I’m Bharath L  
 
+<p align="right">
+  <img src="zoro-roronoa-zoro.gif" width="200" style="float:right; margin-left: 10px;" />
+</p>
+
 ### 🧑‍💻 Crafting Data, Building Intelligence
+
 
 ---
 
