@@ -1,11 +1,14 @@
-# 👋 Hey, I’m Bharath L  
-
-<p align="right">
-  <img src="zoro-roronoa-zoro.gif" width="200" style="float:right; margin-left: 10px;" />
-</p>
-
-### 🧑‍💻 Crafting Data, Building Intelligence
-
+<table>
+  <tr>
+    <td valign="top">
+      <h1>👋 Hey, I’m Bharath L</h1>
+      <h3>🧑‍💻 Crafting Data, Building Intelligence</h3>
+    </td>
+    <td align="right">
+      <img src="zoro-roronoa-zoro.gif" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -63,11 +66,6 @@ I love turning raw data into meaningful stories, building **intelligent applicat
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BharathL2&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathL2&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-<p align="center">
-  <img src="zoro-roronoa-zoro.gif" width="450"/>
 </p>
 
 ---
