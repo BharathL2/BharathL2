@@ -1,11 +1,11 @@
-<table>
+<table width="100%">
   <tr>
-    <td valign="top">
+    <td width="65%" valign="top">
       <h1>👋 Hey, I’m Bharath L</h1>
       <h3>🧑‍💻 Crafting Data, Building Intelligence</h3>
     </td>
-    <td align="right">
-      <img src="zoro-roronoa-zoro.gif" width="200"/>
+    <td align="right" width="35%">
+      <img src="zoro-roronoa-zoro.gif" width="350"/>
     </td>
   </tr>
 </table>
