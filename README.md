@@ -62,10 +62,10 @@ I love turning raw data into meaningful stories, building **intelligent applicat
 
 ---
 <p align="center">
-  <img src="assets/zoro-roronoa-zoro.gif" width="400"/>
+  <img src="zoro-roronoa-zoro.gif" width="450"/>
 </p>
-
 ---
+
 ### 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-l-5a3886261/)
