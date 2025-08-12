@@ -19,7 +19,7 @@ I love turning raw data into meaningful stories, building **intelligent applicat
 - 🔍 Always learning: **AI, LLMs, SQL, DSA, and Modern Web Development**  
 - 🚀 Currently building: AI-powered tools and interactive dashboards  
 - 🤝 Open for: Collaborations, internships, hackathons, and idea exchanges  
-- ✨ Fun fact: I’m obsessed with gaming, sky-watching, productivity systems and stock analysis!  
+- ✨ Fun fact: I’m obsessed with gaming, anime, sky-watching, productivity systems and stock analysis!  
 - 📬 Reach me at: **l670bharath@gmail.com**
 
 ---
